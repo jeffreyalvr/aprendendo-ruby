@@ -12,13 +12,15 @@ Conjunto de mini-projetos em linguagem Ruby para aprendizado pessoal.
 
 ### Ordem de criação
 
-1. string_interpolation;
-2. casting_de_tipos;
-3. metodos;
-4. classes;
-5. times_do;
-6. while;
-7. unless;
-8. if_elsif_else;
-9. each;
-10. array;
+1. string_interpolation.rb;
+2. casting_de_tipos.rb;
+3. metodos.rb;
+4. classes.rb;
+5. times_do.rb;
+6. while.rb;
+7. unless.rb;
+8. if_elsif_else.rb;
+9. each.rb;
+10. array.rb;
+11. metodos_com_argumentos_nomeados.rb;
+12. getters_setters.rb;
