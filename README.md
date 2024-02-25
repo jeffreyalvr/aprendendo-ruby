@@ -27,4 +27,6 @@ Conjunto de mini-projetos em linguagem Ruby para aprendizado pessoal.
 13. case_when.rb;
 14. until.rb;
 15. for.rb;
-16. raise;
+16. raise.rb;
+17. modulos.rb;
+18. heranca.rb;
