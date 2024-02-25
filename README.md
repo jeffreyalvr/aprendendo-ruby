@@ -26,3 +26,5 @@ Conjunto de mini-projetos em linguagem Ruby para aprendizado pessoal.
 12. getters_setters.rb;
 13. case_when.rb;
 14. until.rb;
+15. for.rb;
+16. raise;
