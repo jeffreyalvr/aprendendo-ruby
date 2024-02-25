@@ -1,4 +1,4 @@
-#### Nome do Projeto: Aprendizado-Ruby
+#### Nome do Projeto: Aprendendo-Ruby
 
 ## Informações gerais
 
@@ -24,3 +24,5 @@ Conjunto de mini-projetos em linguagem Ruby para aprendizado pessoal.
 10. array.rb;
 11. metodos_com_argumentos_nomeados.rb;
 12. getters_setters.rb;
+13. case_when.rb;
+14. until.rb;
