@@ -20,3 +20,5 @@ Conjunto de mini-projetos em linguagem Ruby para aprendizado pessoal.
 6. while;
 7. unless;
 8. if_elsif_else;
+9. each;
+10. array;
